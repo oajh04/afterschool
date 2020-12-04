@@ -1,0 +1,12 @@
+.white{
+    background-color : white;
+    height: 4000px;
+    margin-top: 600px;
+    display: block;
+}
+
+.sticky{
+    position: sticky;
+    top: 200px;
+    display: block;
+}
